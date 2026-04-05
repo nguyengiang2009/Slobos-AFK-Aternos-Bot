@@ -3,12 +3,12 @@
   "bot-account": {
     "username": "Duyamdau",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "giangnguyen2009.aternos.me",
     "port": 37040,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Duy am dau",
+        "NGU",
+        "an thit tre em"
       ]
     },
     "chat-log": true,
@@ -60,7 +60,7 @@
   "modules": {
     "avoidMobs": true,
     "combat": true,
-    "beds": false,
+    "beds": true,
     "chat": true,
     "console-commands": true
   },
